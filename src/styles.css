@@ -1,0 +1,60 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #333;
+  background: #fff;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Form-container {
+  width: 100%;
+
+}
+
+.input-text {
+  margin: 5px;
+  border: 2px solid black;
+
+}
+
+.button {
+
+  padding: 8px;
+  background-color: black;
+  color: white;
+  outline: none;
+  font-size: 14px;
+}
+
+.user-list {
+  list-style: none;
+}
+
+.user-detail {
+  margin-bottom: 10px;
+}
+
+.user-detail span {
+  margin-left: 5px;
+}
+
+.user-detail button {
+  margin-left: 5px;
+
+}
+
+.footer button {
+  margin-left: 10px;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  outline: none;
+  font-size: 14px;
+}
